@@ -6,6 +6,9 @@ Minimal UI Design in Flutter
   <img src="flutter_universe.png" alt="flutter minimal ui" title="Screenshot">
 </p>
 
+If you like my work, support me to create more!<br>
+<a href="https://www.buymeacoffee.com/afzalali15" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow_img.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
